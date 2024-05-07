@@ -13,3 +13,7 @@ To enhance test result visualization and analysis, I've integrated Extent Report
 Moreover, the project includes a robust error handling mechanism, wherein automated screenshots are captured in case of test failures, providing visual context to debug and troubleshoot issues promptly.
 
 In summary, this automation testing project showcases a holistic approach to testing a live e-commerce web application, leveraging industry-standard tools and best practices to ensure efficiency, reliability, and maintainability throughout the testing lifecycle.
+
+Here are the Login credentials which i've used in this project to successfully get logged in
+UserName: anirudha.selenium5@gmail.com
+Password: Anirudha@123
