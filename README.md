@@ -17,3 +17,4 @@ In summary, this automation testing project showcases a holistic approach to tes
 Here are the Login credentials which i've used in this project to successfully get logged in
 UserName: anirudha.selenium5@gmail.com
 Password: Anirudha@123
+
